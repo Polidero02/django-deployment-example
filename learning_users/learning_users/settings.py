@@ -30,7 +30,7 @@ SECRET_KEY = '5*@xbx0vu1tsp(!kn80034$mtodco6$h75yhy8-%-clq&fbt#+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['polidero02.pythonanywhere.com',]
 
 
 # Application definition
